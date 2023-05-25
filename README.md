@@ -11,3 +11,5 @@ Sinta-se à vontade para navegar pelos projetos disponíveis, examinar os dashbo
 - [Projeto 01 - Análise da campanha de Marketing da Bloco de Código](#seção-1)
 
 ## Projeto 01 - Análise da campanha de Marketing da Bloco de Código
+
+> Status do Projeto: Em desenvolvimento :warning:
