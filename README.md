@@ -2,9 +2,9 @@
 
 ## Sobre
 
-Bem-vindo ao meu repositório de Projetos de Business Intelligence (BI)! Aqui você encontrará uma coleção de projetos em Power BI, além de servir como uma plataforma para compartilhar meus trabalhos e acompanhar meu progresso em tópicos relacionados a Data Analytics e Data Science. Cada projeto foi desenvolvido com o objetivo de simular casos reais de mercado.
+Bem-vindo ao meu repositório de Projetos de Business Intelligence (BI)! Aqui você encontrará uma coleção de projetos em Power BI, criados com o objetivo de simular casos reais de mercado. Este repositório também serve como uma plataforma para compartilhar meus trabalhos e acompanhar meu progresso em tópicos relacionados a Data Analytics e Data Science.
 
-Sinta-se à vontade para navegar pelos projetos disponíveis, examinar os dashboards e mergulhar nas funcionalidades utilizadas. Sinta-se livre para dar sugestões ou feedback. Agradeço por explorar meus projetos!
+Sinta-se à vontade para explorar os projetos disponíveis, examinar os dashboards e mergulhar nas funcionalidades utilizadas. Ficarei grata por receber suas sugestões ou feedback para aprimorar meus projetos.
 
 ## Tabela de Conteúdo
 
