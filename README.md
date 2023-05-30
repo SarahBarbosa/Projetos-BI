@@ -12,7 +12,7 @@ Sinta-se à vontade para explorar os projetos disponíveis, examinar os dashboar
 
 ## Projeto 01 - Análise da campanha de Marketing
 
-Este projeto foi desenvolvido como parte da primeira semana do challenge BI 3ª edição da Alura. O objetivo principal era criar um dashboard para monitorar uma campanha de marketing realizada ao longo de um ano pela empresa fictícia Bloco de notas.
+Este [projeto](https://github.com/SarahBarbosa/Projetos-BI/tree/main/Projeto%2001%20-%20An%C3%A1lise%20da%20campanha%20de%20Marketing) foi desenvolvido como parte da primeira semana do challenge BI 3ª edição da Alura. O objetivo principal era criar um dashboard para monitorar uma campanha de marketing realizada ao longo de um ano pela empresa fictícia Bloco de notas.
 
 O dashboard desenvolvido apresenta as seguintes métricas e informações relevantes:
 
