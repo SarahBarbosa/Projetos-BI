@@ -12,6 +12,6 @@ Sinta-se à vontade para explorar os projetos disponíveis, examinar os dashboar
 
 ## Projeto 01 - Análise da campanha de Marketing
 
-<img src="./to_readme/Projeto-01-gif.gif" width="800" height="400">
+<img src="./to_readme/Projeto-01-gif.gif" width="500" height="400">
 
 > Status do Projeto: Em desenvolvimento :warning:
