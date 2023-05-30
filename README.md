@@ -10,6 +10,10 @@ Sinta-se à vontade para explorar os projetos disponíveis, examinar os dashboar
 
 - [Projeto 01 - Análise da campanha de Marketing da Bloco de Código](#seção-1)
 
-## Projeto 01 - Análise da campanha de Marketing da Bloco de Código
+## Projeto 01 - Análise da campanha de Marketing
+
+<p align = "center">
+  <img width = "460" height = "300" scr = "to_readme/Projeto-01-gif.gif"
+</p>
 
 > Status do Projeto: Em desenvolvimento :warning:
