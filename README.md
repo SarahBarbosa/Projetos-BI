@@ -8,29 +8,15 @@ Sinta-se à vontade para explorar os projetos disponíveis, examinar os dashboar
 
 ## Tabela de Conteúdo
 
-- [Projeto 01 - Análise da campanha de Marketing da Bloco de Código](#seção-1)
+- [Projeto 01 - Análise da campanha de Marketing](#seção-1)
 
 ## Projeto 01 - Análise da campanha de Marketing
 
-Este [projeto](https://github.com/SarahBarbosa/Projetos-BI/tree/main/Projeto%2001%20-%20An%C3%A1lise%20da%20campanha%20de%20Marketing) foi desenvolvido como parte da primeira semana do challenge BI 3ª edição da Alura. O objetivo principal era criar um dashboard para monitorar uma campanha de marketing realizada ao longo de um ano pela empresa fictícia Bloco de notas.
+Este projeto foi desenvolvido como parte da primeira semana do challenge BI 3ª edição da Alura. O objetivo principal era realizar uma análise da campanha de marketing do blog fictício Bloco de notas, que aborda diversos temas relacionados à tecnologia, como dados, marketing e experiência do usuário. Para atingir esse objetivo, criamos um dashboard estratégico de marketing com o intuito de monitorar uma campanha de publicidade paga ao longo do ano de 2021. O painel desenvolvido apresenta indicadores relevantes para a validação estratégica do negócio.
 
-O dashboard desenvolvido apresenta as seguintes métricas e informações relevantes:
-
-- CTR (Click Through Rate).
-- Percentual de cliques pagos e por redes sociais
-- Percentual de visitas diretas e de buscas
-- Novos usuários únicos por dia
-- Categoria com maior tempo de leitura
-
-Para visualizar o projeto em Power BI dinâmico, acesse o [link](https://app.powerbi.com/view?r=eyJrIjoiMjVlYjBkNzQtOWZkZC00YmFmLThlZDgtNGVjOGFjZmVkYjJjIiwidCI6IjFlNzJjMDlkLTk4N2ItNDFjZi04NWYyLTZjYWU2YjViNWQ2ZiJ9&pageName=ReportSection).
+Para acessar o projeto, você pode visitar este [repositório](https://github.com/SarahBarbosa/Projetos-BI/tree/main/Projeto%2001%20-%20An%C3%A1lise%20da%20campanha%20de%20Marketing). Mais informações sobre o challenge BI 3ª edição da Alura podem ser encontradas [aqui](https://www.alura.com.br/challenges/bi-3?host=https://cursos.alura.com.br). 
 
 ![Projeto01](./to_readme/Projeto-01-gif.gif)
 
-Algumas informações adicionais que podem auxiliar nas tomadas de decisão da empresa:
+Para visualizar o projeto em Power BI dinâmico, acesse o [link](https://app.powerbi.com/view?r=eyJrIjoiMjVlYjBkNzQtOWZkZC00YmFmLThlZDgtNGVjOGFjZmVkYjJjIiwidCI6IjFlNzJjMDlkLTk4N2ItNDFjZi04NWYyLTZjYWU2YjViNWQ2ZiJ9&pageName=ReportSection).
 
-- As categorias de "Gestão", "Data Science" e "Tecnologia" possuem mais artigos com o maior número de visualizações, sendo que a categoria "Tecnologia" possui a maior média de tempo de leitura em comparação com as outras.
-- No ranking dos 5 artigos mais visualizados, 3 estão na categoria de "Gestão".
-- A maioria esmagadora dos cliques na campanha de marketing vem das redes sociais, representando 98,46% do total.
-- Foi observado um aumento significativo no número de usuários únicos em meados de julho de 2021. Um possível fator que pode justificar esse aumento é o lançamento do artigo "Escuta Ativa e como Isso Mudará Sua Abordagem", que parece ter despertado um grande interesse e engajamento por parte dos usuários.
-
-> Status do Projeto: Em desenvolvimento :warning:
