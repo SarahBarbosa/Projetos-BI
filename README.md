@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como parte da primeira semana do challenge BI 3ª 
 
 Para acessar o projeto, você pode visitar este [repositório](https://github.com/SarahBarbosa/Projetos-BI/tree/main/Projeto%2001%20-%20An%C3%A1lise%20da%20campanha%20de%20Marketing). Mais informações sobre o challenge BI 3ª edição da Alura podem ser encontradas [aqui](https://www.alura.com.br/challenges/bi-3?host=https://cursos.alura.com.br). 
 
-![Projeto01](./to_readme/Projeto-01-gif.gif)
+![Projeto01](./to_readme/Projeto-01.gif)
 
 Para visualizar o projeto em Power BI dinâmico, acesse o [link](https://app.powerbi.com/view?r=eyJrIjoiMjVlYjBkNzQtOWZkZC00YmFmLThlZDgtNGVjOGFjZmVkYjJjIiwidCI6IjFlNzJjMDlkLTk4N2ItNDFjZi04NWYyLTZjYWU2YjViNWQ2ZiJ9&pageName=ReportSection).
 
